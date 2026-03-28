@@ -11,4 +11,15 @@ sudo apt install xfce4 xfce4-goodies
 </details>
 
 ## Tema
-Eu decidi pegar o tema **Ghost Mantis** e **get-stinkbugged**, retirado de [Creation of adam](https://github.com/RayhaanFay/xfce-creation-of-adam), para deixar meu tema em preto e as janelas compactas
+Eu decidi juntar varios temas para meu Desktop.
+
+- **Ghost Mantis**: deixa as janelas pretas/cinza escuro.
+- **Get-Stinkbugged**: deixa as janelas compactas ao nivel de virarem uma linha.
+- **Papirus**: Icon pack, que era o padrão no zorinOS?
+
+<details><summary>Downloads</summary>
+
+- Ghost Mantis e Get-stinkbugged retirados de [awful dotfiles](https://gitlab.com/rlyx/awful-dotfiles/-/blob/master/README.md)
+- Priapus já vem instalado no LMDE, mas caso queira baixar, [aqui](https://www.xfce-look.org/p/1166289/)
+
+</details>
