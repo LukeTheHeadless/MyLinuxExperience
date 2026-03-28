@@ -10,4 +10,12 @@
 
 </details>
 
+<details>
+<summary>Software</summary>
+  
 - **OS**: Linux Mint XFCE
+- **DE**: XFCE?
+- **Tema**: [Ghost mantis](https://gitlab.com/rlyx/awful-dotfiles/-/tree/master/.themes/Ghost-Mantis)
+- **Tema de janela**: [Get-Stickbugged](https://gitlab.com/rlyx/awful-dotfiles/-/tree/master/.themes/Get-Stickbugged)
+
+</details>
