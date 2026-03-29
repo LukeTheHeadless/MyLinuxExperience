@@ -17,6 +17,6 @@
 - **DE**: XFCE?
 - **Tema**: [Ghost mantis](https://gitlab.com/rlyx/awful-dotfiles/-/tree/master/.themes/Ghost-Mantis)
 - **Tema de janela**: [Get-Stickbugged](https://gitlab.com/rlyx/awful-dotfiles/-/tree/master/.themes/Get-Stickbugged)
-- **Icones**: Papirus Dark
+- **Icones**: ePapirus Dark
 
 </details>
